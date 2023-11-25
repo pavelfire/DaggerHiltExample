@@ -1,4 +1,4 @@
-package com.vk.directop.daggerhiltexample.ui.theme
+package com.vk.directop.daggerhiltexample.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

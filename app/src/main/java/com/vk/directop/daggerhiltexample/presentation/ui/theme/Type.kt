@@ -1,4 +1,4 @@
-package com.vk.directop.daggerhiltexample.ui.theme
+package com.vk.directop.daggerhiltexample.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
